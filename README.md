@@ -21,6 +21,8 @@
 <summary>📋 Certification 📋</summary>
 <p align="center" display="inline-block">
 </br>
+   <img src="https://img.shields.io/badge/정보처리기사-F44336?style=for-flat-square&logoColor=white"/>
+   <img src="https://img.shields.io/badge/컴퓨터활용능력2급-G44336?style=for-flat-square&logoColor=white"/>
   </p>
   </details>
   </br>
@@ -42,6 +44,7 @@
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-flat-square&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/vuetify-1867C0?style=for-flat-square&logo=Vuetify&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-flat-square&logo=Bootstrap&logoColor=white"> 
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-flat-square&logo=Mysql&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-flat-square&logo=github&logoColor=white"> 
@@ -49,7 +52,9 @@
   <!-- 셋째 줄 -->
   <img src="https://img.shields.io/badge/React-007396?style=for-flat-square&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-flat-square&logo=eclipseide&logoColor=white">
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-flat-square&logo=visualstudiocode&logoColor=white"> 
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-flat-square&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   
   </p>
   </details>
@@ -69,10 +74,10 @@
 <h3 align="center">🎱 My Status 🎱</h3>
 <div align="center">
 
-<!-- ![Eungae-D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eungae-D&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite) -->
-<!--   [![trophy](https://github-profile-trophy.vercel.app/?username=sujeong-jang-creator&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!--   ![Eungae-D's github stats](https://github-readme-stats.vercel.app/api?username=Eungae-D&show_icons=true&hide_title=true&theme=graywhite) -->
-<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eungae-D&layout=compact&theme=graywhite) -->
+<!-- ![acd4548's GitHub stats](https://github-readme-stats.vercel.app/api?username=acd4548&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite) -->
+<!--   [![trophy](https://github-profile-trophy.vercel.app/?username=acd4548&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!--   ![acd4548's github stats](https://github-readme-stats.vercel.app/api?username=acd4548&show_icons=true&hide_title=true&theme=graywhite) -->
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acd4548-D&layout=compact&theme=graywhite) -->
   [![trophy](https://github-profile-trophy.vercel.app/?username=acd4548&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
