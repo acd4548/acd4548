@@ -10,7 +10,6 @@
 <a href="https://solved.ac/acd4548"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=acd4548"/></a>
 
 <p align='center'>
-<a href="mailto:acd4548@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-flat-square&logo=Naver&logoColor=white"/>
 <a href="https://www.instagram.com/acd4548" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://acd4548.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-flat-square&logo=tistory&logoColor=white"></a>
 <br/>
