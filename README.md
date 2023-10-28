@@ -41,7 +41,6 @@
   </br>
 <!--  둘째 줄  -->
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-flat-square&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/vuetify-1867C0?style=for-flat-square&logo=Vuetify&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-flat-square&logo=Bootstrap&logoColor=white"> 
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-flat-square&logo=Mysql&logoColor=white">
