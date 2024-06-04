@@ -20,46 +20,46 @@
 
 <br/>
  <!--자격증 리스트-->
- <details>
-<summary>📋 Certification 📋</summary>
 <p align="center" display="inline-block">
+  📋 Certification 📋
+  <br>
+  </br>
 </br>
    <img src="https://img.shields.io/badge/정보처리기사-F44336?style=for-flat-square&logoColor=white"/>
    <img src="https://img.shields.io/badge/컴퓨터활용능력2급-G44336?style=for-flat-square&logoColor=white"/>
   </p>
-  </details>
   </br>
 
 <!-- 기술 스택  -->
-<details>
-<summary>🛠 Tech Stack 🛠</summary>
-<!--  첫째 줄  -->
 <p align="center" display="inline-block">
+  🛠 Tech Stack 🛠
+  <br>
+  </br>
 <br/>
+<!--  첫째 줄  -->
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-flat-square&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-flat-square&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-flat-square&logo=Mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   </br>
 <!--  둘째 줄  -->
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-007396?style=for-flat-square&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-flat-square&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-flat-square&logo=Bootstrap&logoColor=white"> 
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-flat-square&logo=Mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-flat-square&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-flat-square&logo=github&logoColor=white"> 
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-flat-square&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   </br>
   <!-- 셋째 줄 -->
-  <img src="https://img.shields.io/badge/React-007396?style=for-flat-square&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-flat-square&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-flat-square&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-flat-square&logo=github&logoColor=white"> 
   
   </p>
-  </details>
   </br>
 
 <h3 align="center">🏅 Ranking 🏅</h3>
@@ -68,21 +68,6 @@
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=acd4548)](https://www.acmicpc.net/user/acd4548)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=acd4548&theme=warm)
 </div>
-
-
-
-
-
-<h3 align="center">🎱 My Status 🎱</h3>
-<div align="center">
-
-<!-- ![acd4548's GitHub stats](https://github-readme-stats.vercel.app/api?username=acd4548&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite) -->
-<!--   [![trophy](https://github-profile-trophy.vercel.app/?username=acd4548&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!--   ![acd4548's github stats](https://github-readme-stats.vercel.app/api?username=acd4548&show_icons=true&hide_title=true&theme=graywhite) -->
-<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acd4548-D&layout=compact&theme=graywhite) -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=acd4548&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
 
 <!-- #### 🛠️ Github Stats
 <p>
