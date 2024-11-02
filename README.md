@@ -14,7 +14,9 @@
 <a href="https://acd4548.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-flat-square&logo=tistory&logoColor=white"></a>
 <a href="https://acd4548.notion.site/Minkook-s-Portfolio-075fd766cb44485d97f23935c18884e0?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-EEEEEE?style=for-flat-square&logo=notion&logoColor=white"></a>
 <br/>
-  <a href="https://github.com/user-attachments/files/17606053/default.pdf" target="_blank"><img src="https://img.shields.io/badge/Download PDF Portfolio-CCCCCC?style=for-flat-square&logo=PDF&logoColor=black"></a>
+  <a href="https://github.com/user-attachments/files/17606053/default.pdf"
+    download="포트폴리오_유민국.pdf"
+    target="_blank"><img src="https://img.shields.io/badge/Download PDF Portfolio-CCCCCC?style=for-flat-square&logo=PDF&logoColor=black"></a>
 <br/>
 
 
